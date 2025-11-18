@@ -1,4 +1,5 @@
 # AI Future Directions — Pioneering Tomorrow's AI Innovations
+![img](assets/pexels-ron-lach-9783353.jpg)
 
 A comprehensive exploration of cutting-edge AI technologies including Edge AI and AI-IoT systems, featuring theoretical analysis and practical implementations.
 
